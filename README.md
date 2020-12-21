@@ -1,2 +1,2 @@
 # Language-Dev-Containers
-Programming languages wrapped in VSCode Remote Container compliant Dockerfiles.
+Programming languages, SDKs, and project templates wrapped in VSCode Remote Container compliant Dockerfiles.
