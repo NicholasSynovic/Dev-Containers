@@ -1,3 +1,5 @@
 sphinx
 travis-sphinx
 recommonmark
+black
+isort
