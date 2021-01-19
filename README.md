@@ -1,23 +1,19 @@
-# Dev Containers
+# LaTex
 
 ## Table of Contents
 
-- [Dev Containers](#dev-containers)
+- [LaTex](#latex)
   - [Table of Contents](#table-of-contents)
   - [About](#about)
   - [Installing the Remote Container](#installing-the-remote-container)
 
 ## About
 
-This is a repository containing premade VSCode Development Containers. Each one of these containers contains the:
-
-- Extensions and settings recomended.
-- The language and SDKs used.
-- A pre-created project that is ready to be used as is.
-
-The pre-created projects that are created contain no information and are only there in order to provide a default configuration.
+This repository install the texlive functionality based on the Alpine linux image.
 
 ## Installing the Remote Container
+
+**Warning**: This container takes up over 3.5 GB per container instance due to the size of the texlive-full package.
 
 0. Install [Docker](https://www.docker.com/).
 1. Download the branch as a zip file.
