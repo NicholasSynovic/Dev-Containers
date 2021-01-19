@@ -1,0 +1,8 @@
+{
+    "name": "R",
+	"dockerFile": "Dockerfile",
+	"extensions": [
+		"ikuyadeu.r",
+		"reditorsupport.r-lsp"
+	],
+}
