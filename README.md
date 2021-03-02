@@ -1,21 +1,15 @@
-# Dev Containers
+# C#
 
 ## Table of Contents
 
-- [Dev Containers](#dev-containers)
+- [C#](#latex)
   - [Table of Contents](#table-of-contents)
   - [About](#about)
   - [Installing the Remote Container](#installing-the-remote-container)
 
 ## About
 
-This is a repository containing premade VSCode Development Containers. Each one of these containers contains the:
-
-- Extensions and settings recomended.
-- The language and SDKs used.
-- A pre-created project that is ready to be used as is.
-
-The pre-created projects that are created contain no information and are only there in order to provide a default configuration.
+This repository install the C# language via the Mono framework and Microsofts dotnet utilties.
 
 ## Installing the Remote Container
 
