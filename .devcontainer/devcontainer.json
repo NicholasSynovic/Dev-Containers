@@ -1,0 +1,8 @@
+{
+    "name": "C#",
+    "extensions": [
+        "ms-dotnettools.csharp"
+    ],
+    "dockerFile": "Dockerfile",
+}
+
