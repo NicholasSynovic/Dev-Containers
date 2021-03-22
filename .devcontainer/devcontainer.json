@@ -1,0 +1,5 @@
+{
+  "name": "FitBit SDK 4.2.1",
+  "dockerFile": "Dockerfile",
+  "postStartCommand": "npm i @fitbit/sdk@4.2.1"
+}

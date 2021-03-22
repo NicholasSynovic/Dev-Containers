@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@fitbit/sdk": "^4.2.1",
+    "npx": "^10.2.2"
+  }
+}
