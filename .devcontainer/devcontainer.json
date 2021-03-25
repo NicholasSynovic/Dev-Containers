@@ -1,0 +1,9 @@
+{
+    "name": "Cordova",
+    "dockerFile": "Dockerfile",
+    "extensions": [],
+    "runArgs": [
+        "-e",
+        "DOCKER_BUILDKIT=1"
+    ]
+}
