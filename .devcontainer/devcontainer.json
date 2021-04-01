@@ -1,0 +1,7 @@
+{
+    "name": "C/C++",
+    "dockerFile": "Dockerfile",
+    "extensions": [
+        "ms-vscode.cpptools-extension-pack"
+    ],
+}
